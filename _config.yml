@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "[ML-DE] Machine Learning Meets Differential Equations"
+title: "[ML-DE] Machine Learning Meets Differential Equations 2024"
 description: "The intersection of Machine Learning and Differential Equations from theory to applications."
 baseurl: "" # the subpath of your site, e.g. /ml-de-workshop
-url: "http://example.com" # the base hostname & protocol for your site
-twitter_username: mlde_workshop
-github_username:  ml-de-workshop
+url: "https://mlde-ecai-2024.github.io/" # the base hostname & protocol for your site
+#twitter_username: mlde_workshop
+github_username:  mlde-ecai-2024
 
 # Build settings
 theme: minima
