@@ -9,7 +9,6 @@ permalink: /
 Welcome to the ML-DE Workshop 2024 @ [ECAI 2024](https://www.ecai2024.eu/) , a premier event exploring the intersection of Machine Learning and Differential Equations. Join us for a day of insightful talks, groundbreaking research, and networking opportunities.
 
 
-
 ## Important Dates
 
 - Submission Deadline: 15th May 2024 23:59 CEST
@@ -22,10 +21,10 @@ We invite researchers and practitioners from both the Machine Learning and Diffe
 
 ### Submission Guidelines
 
-- **Paper Format:** Submissions must be formatted according to the provided LaTeX template to ensure consistency and readability. Please download the LaTeX template [here](URL_to_LaTeX_template).
+- **Paper Format:** Submissions must be formatted according to the provided LaTeX template to ensure consistency and readability. Please download the <span style="background-color:red">LaTeX template [here](URL_to_LaTeX_template).
 - **Length:** Papers should not exceed 8 pages, including references and appendices.
 - **Blind Review:** The ML-DE workshop uses a double-blind review process. As such, please ensure that submissions are anonymized, with no author names or affiliations visible.
-- **Submission Link:** Please submit your paper through [EasyChair](URL_to_submission_page) by the submission deadline.
+- **Submission Link:** Please submit your paper through <span style="background-color:red">[EasyChair](URL_to_submission_page)</span> by the submission deadline.
 
 ### Topics of Interest
 
