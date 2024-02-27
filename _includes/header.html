@@ -6,7 +6,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a href="{{ "/" | relative_url }}" style="display: flex; align-items: center; text-decoration: none; flex-shrink: 0;">
-      <img src="{{ '/assets/images/DLDE_LOGO.jpeg' | relative_url }}" alt="Workshop Logo" style="max-height: 60px; margin-right: 10px;">
+      <img src="{{ '/assets/images/DLDE_LOGO.jpeg' | relative_url }}" alt="Workshop Logo" style="max-height: 100px; margin-right: 10px;">
       <span class="site-title" rel="author" style="color: #000; text-decoration: none;">{{ site.title | escape }}</span>
     </a>
 
