@@ -6,6 +6,11 @@ permalink: /call-for-papers/
 
 The [ML-DE] Workshop on "Machine Learning Meets Differential Equations: From Theory to Applications", to be held in conjunction with ECAI 2024, invites researchers and practitioners to submit their latest work on the intersection of machine learning (ML) and differential equations (DE). We welcome contributions that offer novel insights, methodologies, or applications at this interdisciplinary nexus.
 
+
+## Highlight
+
+**All accepted publications will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
+
 #### *You are welcome to download and share the Call for Papers as a PDF document, available* <span style="background-color:red">[here](/assets/pdfs/call-for-papers-2024.pdf).</span>
 
 ## Topics of Interest

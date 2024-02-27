@@ -8,12 +8,16 @@ permalink: /
 
 Welcome to the ML-DE Workshop 2024 @ [ECAI 2024](https://www.ecai2024.eu/) , a premier event exploring the intersection of Machine Learning and Differential Equations. Join us for a day of insightful talks, groundbreaking research, and networking opportunities.
 
+## Highlight
+
+**All accepted publications will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
+
 
 ## Important Dates
 
-- Submission Deadline: 15th May 2024 23:59 CEST
-- Notification of Acceptance: 1st of July 2024
-- Workshop Date: TBD - (Either Saturday or Sunday, 19-20 October, Full Day)
+- **Submission Deadline:** 15th May 2024 23:59 CEST
+- **Notification of Acceptance:** 1st of July 2024
+- **Workshop Date:** TBD - (Either Saturday or Sunday, 19-20 October, Full Day)
 
 ## [Call for Papers]({% link call-for-papers.md %})
 
@@ -37,12 +41,8 @@ We welcome submissions on a variety of topics at the intersection of Machine Lea
 - Novel algorithms and methods in the ML-DE domain
 - Case studies and real-world applications
 
-### Important Dates Revisited
+*Please refer to the full list [here]({% link call-for-papers.md %})*
 
-- **Submission Deadline:** 15th May 2024 23:59 CEST
-- **Notification of Acceptance:** 1st of July 2024
-- **Camera-Ready Submission:** 15th of August 2024
-- **Workshop Date:** TBD - (Either Saturday or Sunday, 19-20 October, Full Day)
 
 <p>If you have questions feel free to contact us anytime <strong><a href="mailto:MLDEWorkshopECAI24@hsu-hh.de">MLDEWorkshopECAI24@hsu-hh.de</a></strong></p>
 
