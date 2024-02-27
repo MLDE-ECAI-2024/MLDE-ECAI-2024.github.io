@@ -6,13 +6,33 @@ permalink: /organizers/
 
 # Organizers
 
-The [ML-DE] Workshop is organized by a dedicated team of researchers and professionals from academia and industry.
+The [ML-DE] Workshop on "Machine Learning Meets Differential Equations: From Theory to Applications" is organized by a group of distinguished researchers dedicated to exploring the synergies between machine learning and differential equations.
 
 ## Lead Organizers
 
-- **Dr. Jane Doe** - University of Example
-- **Prof. John Smith** - Institute of Technology
+### Cecília Coelho
+_Centre of Mathematics, University of Minho, Portugal_  
+Email: cmartins@cmat.uminho.pt  
+Cecília is pursuing a PhD in Mathematics, focusing on the integration of differential equations and neural networks to enhance modeling of real-world systems across various domains. Her research interests span the incorporation of expert knowledge into neural networks and the development of hybrid models.
 
-[Add brief bios and contact information]
+### Luís Ferrás
+_Department of Mechanical Engineering, University of Porto, Portugal_  
+Email: lferras@fe.up.pt  
+An Assistant Professor and researcher, Luís specializes in numerical analysis, applied mathematics, and the intersection with machine learning. He has a strong track record of organizing international workshops and conferences aimed at advancing research in these areas.
 
-We are grateful for the support and expertise of our organizing committee.
+### Fernanda Costa
+_Centre of Mathematics, University of Minho, Portugal_  
+Email: mfc@math.uminho.pt  
+As an Associate Professor, Fernanda's research focuses on optimization, machine learning techniques, and their applications in mathematical modeling and applied mathematics. She has been instrumental in organizing events that bridge these disciplines.
+
+### Bernd Zimmering
+_Institute for Automation Technology, Helmut-Schmidt-University, Germany_  
+Email: bernd.zimmering@hsu-hh.de  
+Bernd's PhD research is dedicated to leveraging neural Ordinary Differential Equations (ODEs) for improving cyber-physical systems. His work explores sophisticated time-continuous algorithms and their practical applications.
+
+### Oliver Niggemann
+_Institute for Automation Technology, Helmut-Schmidt-University, Germany_  
+Email: oliver.niggemann@hsu-hh.de  
+Oliver, a Full Professor, focuses on the application of AI and machine learning in cyber-physical systems. His research aims to enhance system performance and reliability through innovative computational approaches.
+
+The organizing team brings together a wealth of experience in both theoretical and applied aspects of machine learning and differential equations, ensuring a comprehensive and insightful workshop.
