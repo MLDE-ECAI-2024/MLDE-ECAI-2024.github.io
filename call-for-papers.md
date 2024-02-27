@@ -46,6 +46,7 @@ We invite submissions in several formats:
 
 All accepted papers will be published in the Proceedings for Machine Learning Research (PMLR), providing wide visibility in the ML community.
 
-For further details and submission instructions, please contact us at **MLDEWorkshopECAI24@hsu-hh.de**.
+<p>For further details and submission instructions, please contact us at<strong><a href="mailto:MLDEWorkshopECAI24@hsu-hh.de">MLDEWorkshopECAI24@hsu-hh.de</a></strong></p>
+
 
 We look forward to your submissions and to seeing you in Santiago de Compostela to celebrate the 50th anniversary of ECAI!

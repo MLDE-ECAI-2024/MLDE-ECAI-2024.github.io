@@ -15,9 +15,11 @@ Welcome to the ML-DE Workshop 2024 @ [ECAI 2024](https://www.ecai2024.eu/) , a p
 - Notification of Acceptance: 1st of July 2024
 - Workshop Date: TBD - (Either Saturday or Sunday, 19-20 October, Full Day)
 
-## Call for Papers
+## [Call for Papers]({% link call-for-papers.md %})
 
 We invite researchers and practitioners from both the Machine Learning and Differential Equations communities to submit their original research papers. This is a unique opportunity to showcase your work, receive feedback from peers, and engage with leading experts in the field.
+
+Please refer to our [Call for Papers]({% link call-for-papers.md %})
 
 ### Submission Guidelines
 
@@ -41,5 +43,8 @@ We welcome submissions on a variety of topics at the intersection of Machine Lea
 - **Notification of Acceptance:** 1st of July 2024
 - **Camera-Ready Submission:** 15th of August 2024
 - **Workshop Date:** TBD - (Either Saturday or Sunday, 19-20 October, Full Day)
+
+<p>If you have questions feel free to contact us anytime <strong><a href="mailto:MLDEWorkshopECAI24@hsu-hh.de">MLDEWorkshopECAI24@hsu-hh.de</a></strong></p>
+
 
 We look forward to welcoming you to Santiago de Compostela in Spain for an unforgettable experience.
