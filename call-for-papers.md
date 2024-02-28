@@ -14,8 +14,8 @@ We are excited to invite submissions in a variety of formats, catering to differ
 
 - **Full-Length Papers:** Maximum of 8 pages, excluding references and supplementary material, for paper presentations.
 - **Extended Abstracts:** Limited to 2 pages, including references, designed for poster sessions and brief elevator pitches (approximately 5 minutes). This format provides a snapshot of your research, perfect for generating interest and discussion.
-- **Presentation Only:** Authors of papers recently published in top-tier conferences and journals (JMLR, JAIR, MLJ, PAMI, IJCAI, NeurIPS, ICLR, AISTATS, ICML) are encouraged to submit a 2-page extended abstract, including references, for presentation. Please indicate the original publication venue in your submission form.
-- **Reproducibility Track:** Contributions that enhance the reproducibility of research findings are crucial. We invite interactive tutorials/demos (e.g., Jupyter notebooks) or 2-page descriptions of libraries/packages/datasets. This track emphasizes the practical application and implementation of research, facilitating a deeper understanding and broader use of ML-DE techniques. Demo code (e.g. Jupyter notebooks etc. ) will be published jointly at our github together with a link to the paper.
+- **Presentation Only:** Authors of papers recently published in top-tier conferences and journals (AAAI, JMLR, JAIR, MLJ, PAMI, IJCAI, NeurIPS, ICLR, AISTATS, ICML) are encouraged to submit a 2-page extended abstract, including references, for presentation. Please indicate the original publication venue in your submission form.
+- **Reproducibility Track:**Contributions that enhance the reproducibility of research findings are crucial. We invite interactive tutorials, demos, libraries, packages or datasets (e.g. Jupyter notebooks) and their respective 2-page extended abstracts. This track emphasizes the practical application and implementation of research, facilitating a deeper understanding and broader use of ML-DE techniques. Demo code (e.g. Jupyter notebooks etc.) will be published jointly at our github together with a link to the paper.
 
 ## Highlights
 
@@ -42,7 +42,7 @@ We encourage submissions across a broad range of topics, including, but not limi
 
 - **Format:** Submissions must be formatted according to the PMLR LaTeX template. Either use our prefilled version [on overleaf](https://www.overleaf.com/read/ftpzwffrtzjj#7eb024) or the offical [PMLR Template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) and change according to our [Example](/assets/pdf/ML_DE_ECAI2024.pdf)
 - **Length:** As specified by the submission format.
-- **Double-Blind Review:** Ensure submissions do not include identifiable information to adhere to the double-blind review process.
+- **Double-Blind Review:** Submissions should not include identifiable information. Repositories must be anonymized, for example using [Anonymous Github](https://anonymous.4open.science/).
 - **Submission Link:** [https://chairingtool.com/conferences/MLDE24/MainTrack](https://chairingtool.com/conferences/MLDE24/MainTrack)
 
 ## Join Us in Person!
