@@ -1,14 +1,10 @@
 ---
 layout: page
-title: Organizers
-permalink: /organizers/
+title:  Chairs
+permalink: /Chairs/
 ---
 
-# Organizers
-
 The [ML-DE] Workshop on "Machine Learning Meets Differential Equations: From Theory to Applications" is organized by a group of distinguished researchers dedicated to exploring the synergies between machine learning and differential equations.
-
-## Lead Organizers
 
 ### Cecília Coelho
 _Centre of Mathematics, University of Minho, Portugal_  

@@ -4,13 +4,15 @@ title:
 permalink: /
 ---
 
-## [ML-DE] 2024: Machine Learning Meets Differential Equations: From Theory to Applications 2024
+## [ML-DE]: Machine Learning Meets Differential Equations: From Theory to Applications 2024
 
-Welcome to the ML-DE Workshop 2024 @ [ECAI 2024](https://www.ecai2024.eu/) , a premier event exploring the intersection of Machine Learning and Differential Equations. Join us for a day of insightful talks, groundbreaking research, and networking opportunities.
+Welcome to the ML-DE Workshop 2024 @ [27th ECAI](https://www.ecai2024.eu/) , a premier event exploring the intersection of Machine Learning and Differential Equations. Join us for a day of insightful talks, groundbreaking research, and networking opportunities. Please find a detailed description of the workshop [here]({%link description.md %}).
 
-## Highlight
+## Highlights
 
-**All accepted publications will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
+- **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
+- **Fast Publication:** 2 weeks after the workshop ended.
+- **Keynote**: Invited talk by Professor **Eunika Mercier-Laurent**, University of Reims Champagne-Ardenne, France and Chair of the International Federation for Information Processing Technical Committee 12: Artificial Intelligence (IFIP TC-12).
 
 
 ## Important Dates
@@ -19,29 +21,25 @@ Welcome to the ML-DE Workshop 2024 @ [ECAI 2024](https://www.ecai2024.eu/) , a p
 - **Notification of Acceptance:** 1st of July 2024
 - **Workshop Date:** TBD - (Either Saturday or Sunday, 19-20 October, Full Day)
 
-## [Call for Papers]({% link call-for-papers.md %})
 
-We invite researchers and practitioners from both the Machine Learning and Differential Equations communities to submit their original research papers. This is a unique opportunity to showcase your work, receive feedback from peers, and engage with leading experts in the field.
+## Highlights of [Call for Papers]({% link call-for-papers.md %})
 
-Please refer to our [Call for Papers]({% link call-for-papers.md %})
+Explore the core of our Call for Papers for the ML-DE Workshop, dedicated to the convergence of Machine Learning and Differential Equations. For detailed submission guidelines and topics of interest, ensure to visit our **[Call for Papers page](/call-for-papers/)**.
 
-### Submission Guidelines
 
-- **Paper Format:** Submissions must be formatted according to the provided LaTeX template to ensure consistency and readability. Please download the <span style="background-color:red">LaTeX template [here](URL_to_LaTeX_template).
-- **Length:** Papers should not exceed 8 pages, including references and appendices.
-- **Blind Review:** The ML-DE workshop uses a double-blind review process. As such, please ensure that submissions are anonymized, with no author names or affiliations visible.
-- **Submission Link:** Please submit your paper through <span style="background-color:red">[EasyChair](URL_to_submission_page)</span> by the submission deadline.
+### Brief Submission Guidelines
 
-### Topics of Interest
+- **Paper Format:** Submissions must follow the [PMLR LaTeX template](https://ctan.org/tex-archive/macros/latex/contrib/jmlr) for uniformity.
+- **Length:** Up to 8 pages, excluding references and appendices.
+- **Blind Review:** Submissions should be anonymized to adhere to our double-blind review process.
+- **Submission Link:** [https://chairingtool.com/conferences/MLDE24/MainTrack](https://chairingtool.com/conferences/MLDE24/MainTrack)
 
-We welcome submissions on a variety of topics at the intersection of Machine Learning and Differential Equations, including but not limited to:
+### Snapshot of Topics of Interest
 
-- Applications of Machine Learning in solving Differential Equations
-- Theoretical insights into the integration of ML and DE
-- Novel algorithms and methods in the ML-DE domain
-- Case studies and real-world applications
+We invite submissions that bridge Machine Learning with Differential Equations, covering a spectrum from theoretical innovations to practical applications. For a full exploration of the themes and how to submit, visit the full Call for Papers.
 
-*Please refer to the full list [here]({% link call-for-papers.md %})*
+**Engage with us in advancing this interdisciplinary nexus!**
+
 
 
 <p>If you have questions feel free to contact us anytime <strong><a href="mailto:MLDEWorkshopECAI24@hsu-hh.de">MLDEWorkshopECAI24@hsu-hh.de</a></strong></p>
