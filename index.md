@@ -15,7 +15,6 @@ Please find a detailed description of the workshop [here]({%link description.md 
 ## Highlights
 
 - **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
-- **Fast Publication:** We are publishing as fast as possible after the workshop ended.
 - **Keynote**: Invited talk by Professor **Eunika Mercier-Laurent**, University of Reims Champagne-Ardenne, France and Chair of the International Federation for Information Processing Technical Committee 12: Artificial Intelligence (IFIP TC-12).
 
 
