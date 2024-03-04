@@ -20,7 +20,7 @@ We are excited to invite submissions in a variety of formats, catering to differ
 ## Highlights
 
 - **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/).** This collaboration aims to enhance accessibility to emerging topics and expand the field's network.
-- **Fast Publication:** 2 weeks after the workshop ended.
+- **Fast Publication:** We are publishing as fast as possible after the workshop ended.
 
 
 ## Topics of Interest
