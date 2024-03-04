@@ -17,10 +17,8 @@ We are excited to invite submissions in a variety of formats, catering to differ
 - **Presentation Only:** Authors of papers recently published in top-tier conferences and journals (AAAI, JMLR, JAIR, MLJ, PAMI, IJCAI, NeurIPS, ICLR, AISTATS, ICML) are encouraged to submit a 2-page extended abstract, including references, for presentation. Please indicate the original publication venue in your submission form.
 - **Reproducibility Track:** Contributions that enhance the reproducibility of research findings are crucial. We invite interactive tutorials, demos, libraries, packages or datasets (e.g. Jupyter notebooks) and their respective 2-page extended abstracts. This track emphasizes the practical application and implementation of research, facilitating a deeper understanding and broader use of ML-DE techniques. Demo code (e.g. Jupyter notebooks etc.) will be published jointly at our github together with a link to the paper.
 
-## Highlights
-
-- **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/).** This collaboration aims to enhance accessibility to emerging topics and expand the field's network.
-- **Fast Publication:** We are publishing as fast as possible after the workshop ended.
+## Highlight
+**Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/).** This collaboration aims to enhance accessibility to emerging topics and expand the field's network.
 
 
 ## Topics of Interest
