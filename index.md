@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-## ML-DE: Machine Learning Meets Differential Equations: From Theory to Applications 2024
+
 
 The ML-DE Workshop, co-located with [ECAI 2024](https://www.ecai2024.eu/), is set to explore the synergies between Machine Learning (ML) and Differential Equations (DE), highlighting how these fields can collaborate to enhance prediction accuracies and advance explainable AI. This event will focus on integrating DEs into ML architectures and applying ML to solve complex DE problems, aiming to foster innovations in fields ranging from physics to biology. With a commitment to sustainable AI practices, the workshop is dedicated to developing energy-efficient algorithms and reducing the computational footprint of ML, encouraging a community-driven approach to pushing the boundaries of research and application at the intersection of ML and DE.
 
