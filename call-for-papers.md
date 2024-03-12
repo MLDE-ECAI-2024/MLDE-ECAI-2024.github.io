@@ -18,7 +18,7 @@ We are excited to invite submissions in a variety of formats, catering to differ
 - **Reproducibility Track:** Contributions that enhance the reproducibility of research findings are crucial. We invite interactive tutorials, demos, libraries, packages or datasets (e.g. Jupyter notebooks) and their respective 2-page extended abstracts. This track emphasizes the practical application and implementation of research, facilitating a deeper understanding and broader use of ML-DE techniques. Demo code (e.g. Jupyter notebooks etc.) will be published jointly at our github together with a link to the paper.
 
 ## Highlight
-**Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/).** This collaboration aims to enhance accessibility to emerging topics and expand the field's network.
+**Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/).** This collaboration aims to enhance accessibility to emerging topics and expand the field's network. Authors can opt-in or opt-out.
 
 
 ## Topics of Interest
