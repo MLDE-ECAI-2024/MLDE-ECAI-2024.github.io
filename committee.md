@@ -25,6 +25,7 @@ The success of the [ML-DE] Workshop on "Machine Learning Meets Differential Equa
 - **Artur Liebert** - Institute for Automation Technology, Helmut-Schmidt-University, Germany
 - **Isidora Teofilović** - Department of Electrical and Photonics Engineering, DTU, Denmark
 - **Andrzej Dulny** - CAIDAS, University of Würzburg, Germany
+- **Joseph Bakarji** - Center for Advanced Mathematical Sciences, Artificial Intelligence Hub and Department of Mechanical Engineering, American University of Beirut
 
 
 We extend our deepest gratitude to all committee and reviewers for their commitment to excellence and their contributions to the field.
