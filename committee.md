@@ -26,6 +26,7 @@ The success of the [ML-DE] Workshop on "Machine Learning Meets Differential Equa
 - **Isidora Teofilović** - Department of Electrical and Photonics Engineering, DTU, Denmark
 - **Andrzej Dulny** - CAIDAS, University of Würzburg, Germany
 - **Joseph Bakarji** - Center for Advanced Mathematical Sciences, Artificial Intelligence Hub and Department of Mechanical Engineering, American University of Beirut
+- **Niall Mangan** - Engineering Sciences and Applied Mathematics, Northwestern University, United States of America
 
 
 We extend our deepest gratitude to all committee and reviewers for their commitment to excellence and their contributions to the field.
