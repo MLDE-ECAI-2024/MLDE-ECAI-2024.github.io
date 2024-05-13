@@ -15,14 +15,17 @@ Please find a detailed description of the workshop [here]({%link description.md 
 ## Highlights
 
 - **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
-- **Keynote**: Invited talk by Professor **Eunika Mercier-Laurent**, University of Reims Champagne-Ardenne, France and Chair of the International Federation for Information Processing Technical Committee 12: Artificial Intelligence (IFIP TC-12).
+- **Keynote Speakers:**
+  - **Professor Eunika Mercier-Laurent**, University of Reims Champagne-Ardenne, France; Chair of the International Federation for Information Processing Technical Committee 12: Artificial Intelligence (IFIP TC-12).
+  - **Professor Joseph Bakarji**, American University of Beirut; Departments of Mechanical Engineering, Artificial Intelligence Hub, Center for Advanced Mathematical Sciences.
+
 
 
 ## Important Dates
 
-- **Submission Deadline:** 15th May 2024 23:59 CEST
-- **Notification of Acceptance:** 1st of July 2024
-- **Workshop Date:** TBD - (Either Saturday or Sunday, 19-20 October, Full Day)
+- **Submission Deadline:** ~~15th May 2024 23:59 CEST~~ 1st of July 2024 23:59 CEST
+- **Notification of Acceptance:** 15th of August 2024
+- **Workshop Date:** Sunday, 20th of October, Full Day
 
 
 ## Highlights of [Call for Papers]({% link call-for-papers.md %})
