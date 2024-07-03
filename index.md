@@ -18,7 +18,7 @@ Please find a detailed description of the workshop [here]({%link description.md 
 - **Keynote Speakers:**
   - **Professor Eunika Mercier-Laurent**, University of Reims Champagne-Ardenne, France; Chair of the International Federation for Information Processing Technical Committee 12: Artificial Intelligence (IFIP TC-12).
   - **Professor Joseph Bakarji**, American University of Beirut; Departments of Mechanical Engineering, Artificial Intelligence Hub, Center for Advanced Mathematical Sciences.
-
+- **Review Transfer Option** for papers that are not accepted for the main track and related to the workshop's topics can be submitted to our workshop. Please use this [form](https://forms.gle/QPav5rHVMCuSMhFZ9) when submitting your paper. Please make sure to meet our [submission guidelines](/call-for-papers/).
 
 
 ## Important Dates
