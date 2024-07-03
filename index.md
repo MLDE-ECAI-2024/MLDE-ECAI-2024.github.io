@@ -24,7 +24,7 @@ Please find a detailed description of the workshop [here]({%link description.md 
 ## Important Dates
 
 - **Submission Deadline:** ~~1st of July 2024 23:59 CEST~~ 13th of July 2024 23:59 CEST
-- **Notification of Acceptance:** 5th of August 2024
+- **Notification of Acceptance:** latest at 5th of August 2024
 - **Workshop Date:** Sunday, 20th of October, Full Day
 
 

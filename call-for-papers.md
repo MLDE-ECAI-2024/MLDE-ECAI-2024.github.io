@@ -50,7 +50,7 @@ We warmly invite you to present your work in person, fostering a vibrant exchang
 ## Important Dates
 
 - **Submission Deadline:** ~~1st of July 2024 23:59 CEST~~ 13th of July 2024 23:59 CEST
-- **Notification of Acceptance:** 5th of August 2024
+- **Notification of Acceptance:** latest at 5th of August 2024
 - **Workshop Date:** Sunday, 20th of October, Full Day
 
 For more details and submission instructions, please contact us at [MLDEWorkshopECAI24@hsu-hh.de](mailto:MLDEWorkshopECAI24@hsu-hh.de).
