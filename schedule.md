@@ -11,7 +11,7 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 ## Workshop Date
 **Sunday, 20th of October 2024, Full Day**
 ## Location 
-**Santiago de Compostela, Spain, ECAI 2024, Room will be announced**
+**Santiago de Compostela, Spain, ECAI 2024, Building and Room will be announced**
 
 ## Conference Timetable
 
