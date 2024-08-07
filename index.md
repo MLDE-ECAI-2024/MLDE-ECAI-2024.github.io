@@ -17,9 +17,13 @@ Please find a detailed description of the workshop [here]({%link description.md 
 - **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
 - **Keynote Speakers:**
   - **Professor Eunika Mercier-Laurent**, University of Reims Champagne-Ardenne, France; Chair of the International Federation for Information Processing Technical Committee 12: Artificial Intelligence (IFIP TC-12).
+    - **Title: Incorporation Of Expert-Knowledge Into AI Given By Differential Equations For Model Safety And Transparency**
   - **Professor Joseph Bakarji**, American University of Beirut; Departments of Mechanical Engineering, Artificial Intelligence Hub, Center for Advanced Mathematical Sciences.
+    - **Title: Discovering Physically Meaningful Quantities Of Interest And Their Associated Governing Equations From Data**
+- **Featured Presentation:**
+  - **Prof. Dr. Gülgün Kayakutlu**, Istanbul Technical University
+    - **Title: Energy-Efficient Algorithms Aiming To Reduce The Computational Footprint Of AI And Traditional Numerical Methods For Solving Differential Equations**
 - **Review Transfer Option** for papers that are not accepted for the main track and related to the workshop's topics can be submitted to our workshop. Please use this [form](https://forms.gle/QPav5rHVMCuSMhFZ9) when submitting your paper. Please make sure to meet our [submission guidelines](/call-for-papers/).
-
 
 ## Important Dates
 
