@@ -12,6 +12,9 @@ This concise description encapsulates the workshop's objectives, themes, and the
 
 Please find a detailed description of the workshop [here]({%link description.md %}).
 
+## News
+Schedule and Keynote Speakers announced! Check out the [Schedule]({% link schedule.md %}) for more details.
+
 ## Highlights
 
 - **Full-Length Papers will be published collectively in a volume by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). This collaboration aims to enhance accessibility to this emerging topic and expand the network within the field.**
