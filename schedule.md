@@ -50,5 +50,5 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 - **16:00-16:30** Featured Presentation by Gülgün Kayakutlu:
 **Energy-Efficient Algorithms Aiming To Reduce The Computational Footprint Of AI And Traditional Numerical Methods For Solving Differential Equations**
 - **16:30-16:50** Accelerating Hopfield Network Dynamics: Beyond Synchronous Updates and Forward Euler (20 min)
-- **16:50-17:20** Demo session / Interactive Session
-- **17:20-17:30** Closing Remarks
+### **16:50-17:20** Demo session / Interactive Session
+### **17:20-17:30** Closing Remarks
