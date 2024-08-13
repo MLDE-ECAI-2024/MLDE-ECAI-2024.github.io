@@ -51,6 +51,7 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 **Energy-Efficient Algorithms Aiming To Reduce The Computational Footprint Of AI And Traditional Numerical Methods For Solving Differential Equations**
 - **16:30-16:50** Accelerating Hopfield Network Dynamics: Beyond Synchronous Updates and Forward Euler
 - **16:50-17:10** What happens to diffusion model likelihood when your model is conditional?
+
 ### 17:10-17:25 Demo session / Interactive Session
 
 ### 17:25-17:30 Closing Remarks
