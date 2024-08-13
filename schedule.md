@@ -29,7 +29,7 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 
 ### 11:00-12:30 Session 2: Applications of Differential Equations
 - **11:00-11:20** Neural-based models ensemble for identification of the vibrating beam system 
-- **11:20-11:40** Paper 15
+- **11:20-11:40** A Neural Ordinary Differential Equations Approach for 2D Flow Properties Analysis of Hydraulic Structures
 - **11:40-12:00** Concept and solution of digital twin based on a Stieltjes differential equation. Application to the population dynamics of Vespa Velutina 
 - **12:00-12:20** Optimal Control of a Coastal Ecosystem Through Neural Ordinary Differential Equations 
 - **12:20-12:30** Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows 
@@ -50,7 +50,7 @@ The [ML-DE] Workshop features a packed schedule of keynotes, sessions, and netwo
 - **16:00-16:30** Featured Presentation by Gülgün Kayakutlu:
 **Energy-Efficient Algorithms Aiming To Reduce The Computational Footprint Of AI And Traditional Numerical Methods For Solving Differential Equations**
 - **16:30-16:50** Accelerating Hopfield Network Dynamics: Beyond Synchronous Updates and Forward Euler
+- **16:50-17:10** What happens to diffusion model likelihood when your model is conditional?
+### 17:10-17:25 Demo session / Interactive Session
 
-### 16:50-17:20 Demo session / Interactive Session
-
-### 17:20-17:30 Closing Remarks
+### 17:25-17:30 Closing Remarks
