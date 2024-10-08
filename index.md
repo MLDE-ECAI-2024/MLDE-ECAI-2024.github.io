@@ -12,8 +12,14 @@ This concise description encapsulates the workshop's objectives, themes, and the
 
 Please find a detailed description of the workshop [here]({%link description.md %}).
 
+## Workshop Date
+**Sunday, 20th of October 2024, Full Day**
+## Location
+**Santiago de Compostela, Spain, ECAI 2024, [School of Philology](https://www.google.com/maps/place/Facultade+de+Filoloxía+~+USC/@42.8915226,-8.5460183,17.75z/data=!4m6!3m5!1s0xd2efe5ece5f2725:0xd1d25646efcac971!8m2!3d42.8912317!4d-8.5450827!16s%2Fg%2F11c1wvjzqr?entry=tts&g_ep=EgoyMDI0MTAwMS4wIPu8ASoASAFQAw%3D%3D) Room D08 Vigo**
+
 ## News
-Schedule and Keynote Speakers announced! Check out the [Schedule]({% link schedule.md %}) for more details.
+- Schedule and Keynote Speakers announced! Check out the [Schedule]({% link schedule.md %}) for more details.
+- **The Proceedings of the ML-DE Workshop have already been published by the [Proceedings of Machine Learning Research (PMLR)](http://proceedings.mlr.press/). You can access the proceedings [here](https://proceedings.mlr.press/v255/)**.
 
 ## Highlights
 
